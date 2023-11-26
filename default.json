@@ -15,7 +15,7 @@
         "rollback",
         "bump"
       ],
-      "groupName": "devDependencies",
+      "groupName": "devDependencies"
     },
     {
       "matchDepTypes": ["dependencies"],
@@ -28,7 +28,7 @@
         "rollback",
         "bump"
       ],
-      "groupName": "dependencies",
+      "groupName": "dependencies"
     }
   ]
 }
